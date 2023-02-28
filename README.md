@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on automation of laboratory procedures at Clinical Genomics Unit, SciLifeLab.
+- 🌱 I’m currently learning to program liquid handling robots.
+- 👯 I’m looking to collaborate on improving the Hamilton methods for NGS applications and photographing for events and celebrations. 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about animating PowerPoint presentations or editing photos in Lightroom
+- 📫 How to reach me: bandaru.manoj@gmail.com
+- 😄 Pronouns: He, him, his
+- ⚡ Fun fact: ...
+
 <!--
 **Manoj-Bandaru/Manoj-Bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
